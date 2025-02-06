@@ -3,3 +3,6 @@ Write a function (or static method in the case of Java) that accepts a list of i
 
 Describe Different Approaches to Solving This Problem
 Describe the two different ways to figure out all of the duplicate values of a list of integers in english. The first solution is the nested loop solution. The second solution is to use a dictionary or a map (similar to the containsPair method we wrote in class. Describe both in as much detail as you can (with no code) and describe the trade-offs between the two solutions.
+
+Using a nested loop is easier to make but is less efficient while using a dictionary or a map is more difficult but more efficient.
+Also the one-set branch and the HEAD branch did not work for me.
